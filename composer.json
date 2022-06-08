@@ -1,6 +1,6 @@
 {
-    "name": "ahmedkandel/nova-s3-multipart-upload",
-    "description": "A Laravel Nova s3 multipart upload tool.",
+    "name": "leasify/nova-s3-multipart-upload",
+    "description": "Leasify overtake: A Laravel Nova s3 multipart upload tool.",
     "keywords": [
         "laravel",
         "nova",
@@ -13,7 +13,7 @@
         "name": "Ahmed Kandel"
     }],
     "require": {
-        "laravel/nova": "^3.12"
+        "laravel/nova": "^3.12|^4.0"
     },
     "autoload": {
         "psr-4": {
