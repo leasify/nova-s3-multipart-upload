@@ -2,7 +2,6 @@
     "name": "leasify/nova-s3-multipart-upload",
     "description": "Leasify overtake: A Laravel Nova s3 multipart upload tool.",
     "keywords": [
-        "leasify",
         "laravel",
         "nova",
         "aws",
